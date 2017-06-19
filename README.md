@@ -1,6 +1,14 @@
-# GO raspberry pi Sensor Demo
+#Raspberry PI  demo for  GO 
 
 Go 树莓派的控制硬件demo， 附电路图
+
+## start
+
+```
+git clone https://github.com/huyinghuan/pi-demo.git
+cd pi-demo
+go get
+```
 
 ## compile 编译
 
@@ -25,12 +33,12 @@ go build：
 
 ### work
 
- demo code
+demo code
 示例代码
 
-## circuite design
+### circuite design
 
-circuite design。 电路示意图。
+circuite design  电路示意图。
 
 xx.fzz 为设计图原件 请用[fritzing] 包含电路设计
 xx.png 为面包图
