@@ -47,3 +47,7 @@ xx_design.png 为该面包图
 ## Tools 电路图工具： 
 
 Fritzing http://fritzing.org/home/
+
+## Book
+
+[Raspberry Pi Sensors] author: Rushi Gajjar
