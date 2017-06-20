@@ -10,6 +10,16 @@ cd pi-demo
 go get
 ```
 
+## Demo List
+
+- Blink
+
+二极管， 330欧电阻
+
+- Temperature
+
+10k欧姆电阻  ds18b20 温度传感器
+
 ## compile 编译
 
 gox or go build
